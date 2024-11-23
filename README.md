@@ -1,9 +1,13 @@
-## Hi there 👋
-Welcome. I'm Josh, a passionate Computer Science student and aspiring software engineer.
+# salutations!, im josh👾
+- hailing from the digital cosmos, where 404s are black holes, I emerge as a self-proclaimed Pixel Shaman!🧙‍♂️
+- dunking data structures by day, summoning robotic minions by night. 🤖
 
-#About Me
--🔭 Currently working on: Exciting projects in robotics, UX/UI design, and accessible technology solutions.
--🌱 Currently learning: Advanced Java, React.js, and backend development for full-stack applications.
--🤝 Collaborating on: Projects that make tech accessible to underprivileged communities.
--💬 Ask me about: Frontend development, robotics, and tips for creating user-friendly designs.
--⚡ Fun fact: I’m part of the UEF Robotics Team, where we blend creativity and engineering to build innovative solutions!
+## what im working on rn
+- 🔮 i blend design and functionality, channeling React.js and robotic arms into user-friendly magic.
+- 💻 training machines (or im trying to... at least), not to take over the world (yet), but to play chess better than me.
+- 🚁 i’m currently building an autonomous ArduCopter drone with the goal of integrating machine learning for smart navigation and obstacle avoidance. 
+
+## ⚡ fun facts:
+- i've probably written more lines of console.log than actual functioning code.
+- i firmly believe every robot deserves a cool name. My current sidekick? PincherX the Armageddon.
+- when im not on chatgpt (doing my assignments), i'm shootin' hoops or pretending to understand chess strategies.
