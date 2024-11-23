@@ -1,4 +1,4 @@
-# salutations!, im josh👾
+# salutations guzz (github huzz)!, im josh👾
 - hailing from the digital cosmos, where 404s are black holes, I emerge as a self-proclaimed Pixel Shaman!🧙‍♂️
 - dunking data structures by day, summoning robotic minions by night. 🤖
 
