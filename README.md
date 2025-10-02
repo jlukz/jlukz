@@ -1,4 +1,4 @@
-## Hi, I'm Joshua 
+## hello!
 "Software Engineer/Creative Designer & Robotics Developer"
 
 ## Expressive Systems, Minimal Interfaces
